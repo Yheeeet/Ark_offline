@@ -8,8 +8,8 @@ import asyncio
 # 🎛️ ======= KONFIGURATION =======
 DISCORD_TOKEN = os.environ["DISCORD_TOKEN"]     # Dein Bot-Token
 TRIGGER_TEXT = "triggered by"                   # Text, der den Bot auslöst
-USER_IDS_TO_NOTIFY = [730067423935594530]       # Liste der User-IDs, die per DM benachrichtigt werden sollen
-NUMBER_OF_PINGS = 2                              # Anzahl Pings & DMs pro Person
+USER_IDS_TO_NOTIFY = [656185492374814720, 886258061944172554]       # Liste der User-IDs, die per DM benachrichtigt werden sollen
+NUMBER_OF_PINGS = 30                              # Anzahl Pings & DMs pro Person
 PING_CHANNEL_ID = 1376343305830531082            # Channel-ID für Pings
 # 🎛️ =============================
 
